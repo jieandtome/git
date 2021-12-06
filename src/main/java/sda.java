@@ -6,5 +6,6 @@ public class sda {
         System.out.println("sc");
         System.out.println("sdr");
          System.out.println("sdrsd");
+        System.out.println("动");
     }
 }
